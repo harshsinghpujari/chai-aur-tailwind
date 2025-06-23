@@ -53,7 +53,7 @@ hai-aur-tailwind/
 
 🙋‍♂️ Author
 
-Harsh Singh
+Himanshu Singh
 💼 GitHub Profile
 
 
